@@ -1,2 +1,2 @@
 # TradeTheKnight 2026
-Chicken Nuggets TradeTheKnight Repository
+Chicken Nuggets TradeTheKnight Repository 
