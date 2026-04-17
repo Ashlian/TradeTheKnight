@@ -1,2 +1,2 @@
-# TradeTheKnight
-The Bots I made for Trade the Knight
+# TradeTheKnight 2026
+Chicken Nuggets TradeTheKnight Repository
