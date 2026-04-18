@@ -84,7 +84,7 @@ MAX_BID_YIELD = 0.20  # 20 % — adjust to match competition instruments
 
 # Fraction of allocated RUD capital to deploy per auction.
 # Keeping this below 1.0 preserves capital for other opportunities.
-CAPITAL_FRACTION = 0.80
+CAPITAL_FRACTION = 0.30
 
 # Bond par value per unit (as stated in PRD: $1000 par per unit).
 BOND_PAR = 1000.0
