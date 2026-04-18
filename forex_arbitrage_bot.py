@@ -13,6 +13,13 @@ PAIRS: Tuple[Tuple[str, str], ...] = (
     ("COORUD", "COLRUD"),
     ("COORUD", "DOURUD"),
     ("COLRUD", "DOURUD"),
+    ("COORUD", "BUSRUD"),
+    ("COORUD", "LIVRUD"),
+    ("COLRUD", "BUSRUD"),
+    ("COLRUD", "LIVRUD"),
+    ("DOURUD", "BUSRUD"),
+    ("DOURUD", "LIVRUD"),
+    ("BUSRUD", "LIVRUD"),
 )
 
 TICK_SIZE = 0.0001
