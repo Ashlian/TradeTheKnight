@@ -18,7 +18,7 @@ from knight_trader import ExchangeClient
 # ─────────────────────────────────────────────
 # CONFIG  –  edit these before uploading
 # ─────────────────────────────────────────────
-SYMBOL = "SPOTDEMO"          # Replace with the live symbol on competition day
+SYMBOL = "RUX"          # Replace with the live symbol on competition day
 
 ORDER_SIZE      = 1.0        # Base order size in units
 MIN_SPREAD      = 0.04       # Minimum acceptable market spread to quote into
