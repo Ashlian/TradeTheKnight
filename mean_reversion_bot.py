@@ -21,7 +21,7 @@ from knight_trader import ExchangeClient
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 
-SYMBOL = "SPOTDEMO"          # Replace with the real symbol on competition day.
+SYMBOL = "SCIX"          # Replace with the real symbol on competition day.
 
 # Mean-reversion parameters
 LOOKBACK = 30                # Number of price observations for rolling stats.
