@@ -8,7 +8,7 @@ from typing import Dict, List, Optional, Set, Tuple
 from knight_trader import ExchangeClient
 
 
-SYMBOLS: Tuple[str, ...] = ("COORUD", "COLRUD", "DOURUD")
+SYMBOLS: Tuple[str, ...] = ("COORUD", "COLRUD", "DOURUD", "BUSRUD", "LIVRUD")
 PAIRS: Tuple[Tuple[str, str], ...] = (
     ("COORUD", "COLRUD"),
     ("COORUD", "DOURUD"),
