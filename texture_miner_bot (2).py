@@ -30,7 +30,7 @@ from knight_trader import ExchangeClient
 # CONFIGURATION — adjust before deployment
 # ─────────────────────────────────────────────
 
-SYMBOL = "SPOTDEMO"          # Replace with live symbol on competition day
+SYMBOL = "SCAR"          # Replace with live symbol on competition day
 
 # Texture analysis parameters
 NEAR_LAYER_DEPTH  = 5        # Number of price levels considered "near top"
